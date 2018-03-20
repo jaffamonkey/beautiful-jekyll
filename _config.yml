@@ -69,6 +69,7 @@ social-network-links:
   rss: true
   github: ebotgamer1
   twitter: ebotgamer1
+  youtube: user/ebotgamer1
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -76,7 +77,6 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-   youtube: user/ebotgamer1
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -88,7 +88,6 @@ share-links-active:
   twitter: true
   facebook: true
   google: true
-  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
