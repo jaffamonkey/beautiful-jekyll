@@ -6,4 +6,4 @@ subtitle: Roblox addict :)
 
 ### my story
 
-I love to play roblox, and love silly videos even more!
+I love to play Roblox, Hello Neighbor! and much more!
