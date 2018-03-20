@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: I am ebotgamner1
+title: About
+subtitle: Roblox addict :)
 ---
 
 ### my story
 
-I love to play roblox and toontown, and love silly videos even more :)
+I love to play roblox, and love silly videos even more!
