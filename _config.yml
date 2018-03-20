@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: ebotgamer1
+title: spinningcupcakes
 
 # Short description of your site
 description: awesome videos!
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: ebotgamer1
+  name: spinningcupcakes
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -67,9 +67,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  github: ebotgamer1
-  twitter: ebotgamer1
-  youtube: user/ebotgamer1
+  github: spinningcupcakes
+  twitter: spinningcupcakes
+  youtube: user/spinningcupcakes
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
