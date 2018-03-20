@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I am ebotgamner1
 ---
 
-My name is ebotgamner1
-
 ### my story
+
+I love to play roblox and toontown, and love silly videos even more :)
